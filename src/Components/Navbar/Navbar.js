@@ -14,7 +14,7 @@ const Navbar = () => {
     
   </li>
   <li class="nav-item">
-  <NavLink className={({ isActive }) => (isActive ? "nav-link text-primary" : "nav-link text-danger")}  to="/chart">Chart</NavLink>
+  <NavLink className={({ isActive }) => (isActive ? "nav-link text-primary" : "nav-link text-danger")}  to="/dashboard">Dashboard</NavLink>
     
   </li>
   <li class="nav-item">

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Sabbir Rahaman",
+    "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": " The camera is also very lightweight and easy to carry around. I would definitely recommend this camera to anyone looking for a great DSLR camera.",
+    "rate": "Excellent",
+    "star": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 2,
+    "name": "Omar Farooq",
+    "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": "It is so easy to use and the pictures come out looking amazing. I have never been able to take such great pictures before.",
+    "rate": "Excellent",
+    "star": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 3,
+    "name": "Arfan Ahmed",
+    "img": "https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": "It was affordable and had all the features I needed to get started. The camera is easy to use and the pictures come out great!",
+    "rate": "Excellent",
+    "star": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 4,
+    "name": "Nursat Jahan Nasir ",
+    "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": "This camera is amazing! It's easy to use and the pictures come out perfect every time.",
+    "rate": "Excellent",
+    "star": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 5,
+    "name": "Minolta Paul",
+    "img": "https://images.pexels.com/photos/1484810/pexels-photo-1484810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": "This camera is amazing! The pictures come out so clear and the features are really easy to use. I'm so happy with my purchase!",
+    "rate": "Excellent",
+    "star": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 6,
+    "name": "Ena Frez",
+    "img": "https://images.pexels.com/photos/1987301/pexels-photo-1987301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": " It's easy to use and takes great pictures. I'm really happy with my purchase!",
+    "rate": "Excellent",
+    "star": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 7,
+    "name": "Sofia Wilsion",
+    "img": "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": "The price is very high. It will better reduce the price ",
+    "rate": "Good",
+    "star": "⭐⭐⭐⭐"
+  },
+  {
+    "id": 8,
+    "name": "Christina Morillo",
+    "img": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": "The camera is very Good. But is very high",
+    "rate": "Good",
+    "star": "⭐⭐⭐⭐"
+  },
+  {
+    "id": 9,
+    "name": "Tomas Edison",
+    "img": "https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": "It's great for capturing memories of my friends and family. The camera is easy to use and the pictures come out looking great.",
+    "rate": "Excellent",
+    "star": "⭐⭐⭐⭐⭐"
+  }
+]
