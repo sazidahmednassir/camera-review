@@ -1,20 +1,25 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
     return (
         <div>
             <ul class="nav justify-content-center">
   <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="#">Home</a>
+    <NavLink className={({ isActive }) => (isActive ? "nav-link text-primary" : "nav-link text-danger")}   to="/">Home</NavLink>
+    
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Reviews</a>
+  <NavLink className={({ isActive }) => (isActive ? "nav-link text-primary" : "nav-link text-danger")}  to="/reviews">Reviews</NavLink>
+    
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Chart</a>
+  <NavLink className={({ isActive }) => (isActive ? "nav-link text-primary" : "nav-link text-danger")}  to="/chart">Chart</NavLink>
+    
   </li>
   <li class="nav-item">
-    <a class="nav-link disabled">Blog</a>
+  <NavLink className={({ isActive }) => (isActive ? "nav-link text-primary" : "nav-link text-danger")}  to="/blog">Blog</NavLink>
+  
   </li>
 </ul>
             
