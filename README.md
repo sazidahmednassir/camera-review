@@ -6,8 +6,8 @@ Live Website Link: https://splendorous-nougat-410b2d.netlify.app/
 
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- My webApp shows customer reviews, Camera Price & Sale chart in dashboard
+- You can view customer reviews in reviews
+- You can see camera price and sale, Camera ratings in Dashboard
+- I use routes and navlink in our navigation for hot reloading.
+- It also has active class in navbar which shows where page you now.
