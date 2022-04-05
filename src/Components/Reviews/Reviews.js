@@ -10,7 +10,7 @@ const Reviews = () => {
             
            <div class="container">
                <div class="row">
-                   <div class="column-md-12">
+                   <div class="column-md-12 mt-4">
                        <div class="container d-flex flex-wrap justify-content-md-between ">
                        {
                    reviews.map(review => <Card  key={review.id}   review={review}></Card>)

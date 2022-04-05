@@ -6,8 +6,8 @@ const Card = ({review}) => {
     const  {name,  img,  comment, rate, star}= review
 
     return (
-        <div>
-                   <div class="card" className="cardwidth">
+        <div class="mt-3">
+                   <div class="card " className="cardwidth">
   <img src={img} class="card-img  img-fluid  ima" alt="..."/>
   <div class="card-body">
     <h5 class="card-title">{name}</h5>

@@ -4,7 +4,7 @@ import Review from '../Review/Review';
 import "./Home.css";
 
 const Home = () => {
-  const [reviews, setReview ]=useReviews();
+  const [reviews]=useReviews();
   const navigate = useNavigate();
     return (
         <div className="container mt-4">
