@@ -21,7 +21,7 @@ const Home = () => {
   <div class="col-sm-6">
     <div class="card border-0">
       <div class="card-body">
-      <img src="https://m.media-amazon.com/images/I/81pz06ySqrL._AC_SX569_.jpg" class="card-img img-fluid" alt="..."></img>
+      <img src="https://m.media-amazon.com/images/I/81pz06ySqrL._AC_SX569_.jpg" class="card-img img-fluid custom ms-4" alt="..."></img>
         
       </div>
     </div>
@@ -31,8 +31,8 @@ const Home = () => {
 </div>
 <div class="row">
   <div class="column-md-12">
-  <h1 class="text-center m-4">Our Customer Reviews</h1>
-  <div class="container  d-flex flex-wrap justify-content-md-between  " >
+  <h1 class="text-center my-3">Our Customer Reviews</h1>
+  <div class="container  d-flex flex-wrap justify-content-md-between ms-4  " >
     
    {
      reviews.slice(0,3).map(review =>  <Review key={review.id}  review={review}></Review>)
