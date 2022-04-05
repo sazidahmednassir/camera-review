@@ -1,0 +1,7 @@
+@media (min-width: 600px) {
+  .sm {
+    display: flex !important;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+}

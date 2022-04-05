@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Sabbir Rahaman",
     "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "comment": " The camera is also very lightweight and easy to carry around. I would definitely recommend this camera to anyone looking for a great DSLR camera.",
+    "comment": "The camera is very small and portable. If you want a fantastic DSLR camera, this is it.",
     "rate": "5.00",
     "star": "⭐⭐⭐⭐⭐"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Omar Farooq",
     "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "comment": "It is so easy to use and the pictures come out looking amazing. I have never been able to take such great pictures before.",
+    "comment": "It's incredibly simple to use and the results are stunning. I've never taken such excellent photos before.",
     "rate": "5.00",
     "star": "⭐⭐⭐⭐⭐"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Arfan Ahmed",
     "img": "https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "comment": "It was affordable and had all the features I needed to get started. The camera is easy to use and the pictures come out great!",
+    "comment": "It was cheap and provided all the functionality I needed. The camera is easy to use and takes great shots!",
     "rate": "5.00",
     "star": "⭐⭐⭐⭐⭐"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Minolta Paul",
     "img": "https://images.pexels.com/photos/1484810/pexels-photo-1484810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "comment": "This camera is amazing! The pictures come out so clear and the features are really easy to use. I'm so happy with my purchase!",
+    "comment": "Amazing camera! The photographs are crisp and the features are simple to use. I love my buy!",
     "rate": "5.00",
     "star": "⭐⭐⭐⭐⭐"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "Sofia Wilsion",
     "img": "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "comment": "The price is very high. It will better reduce the price ",
+    "comment": "The cost is really expensive. It would be preferable for us to lower the price.",
     "rate": "4.75",
     "star": "⭐⭐⭐⭐"
   },
@@ -59,15 +59,15 @@
     "id": 8,
     "name": "Christina Morillo",
     "img": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "comment": "The camera is very Good. But is very high",
+    "comment": "Very good quality in terms of the camera. However, the cost is too expensive",
     "rate": "4.75",
     "star": "⭐⭐⭐⭐"
   },
   {
     "id": 9,
     "name": "Tomas Edison",
-    "img": "https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    "comment": "It's great for capturing memories of my friends and family. The camera is easy to use and the pictures come out looking great.",
+    "img": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": "It helps me remember my friends and family. The camera is simple to operate and takes amazing photos.",
     "rate": "5.00",
     "star": "⭐⭐⭐⭐⭐"
   }

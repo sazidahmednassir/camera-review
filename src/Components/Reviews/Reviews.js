@@ -1,9 +1,26 @@
 import React from 'react';
+import Card from '../Card/Card';
+import useReviews from '../hooks/useReviews';
 
 const Reviews = () => {
+    const [reviews ]=useReviews();
     return (
         <div>
-            <h1>reviews</h1>
+
+            
+           <div class="container">
+               <div class="row">
+                   <div class="column-md-12">
+                       <div class="container d-flex flex-wrap justify-content-md-between ">
+                       {
+                   reviews.map(review => <Card  key={review.id}   review={review}></Card>)
+               }
+                       </div>
+             
+                   </div>
+               </div>
+               
+           </div>
         </div>
     );
 };

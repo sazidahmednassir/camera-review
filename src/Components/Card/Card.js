@@ -1,12 +1,14 @@
 import React from 'react';
-import "./Review.css";
+import "./Card.css";
 
-const Review = ({review}) => {
+const Card = ({review}) => {
+  
     const  {name,  img,  comment, rate, star}= review
+
     return (
         <div>
-          <div class="card" className="cardwidth">
-  <img src={img} class="card-img  img-fluid" alt="..."/>
+                   <div class="card" className="cardwidth">
+  <img src={img} class="card-img  img-fluid  ima" alt="..."/>
   <div class="card-body">
     <h5 class="card-title">{name}</h5>
     <p class="card-text">{comment}</p>
@@ -15,10 +17,8 @@ const Review = ({review}) => {
   
   </div>
 </div>
-
-
         </div>
     );
 };
 
-export default Review;
+export default Card;
